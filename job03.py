@@ -1,0 +1,12 @@
+calcul = 10 + 3 ;
+print("Resultat =",calcul)
+soustraction = 10-3;
+print("resultat=",soustraction)
+multiplication = 10*3;
+print("resultat=",multiplication)
+division =10/3;
+print("division=",division)
+modulo=10%3;
+print("resultat=",modulo)
+barre=10//3;
+print("resultat=",barre)
